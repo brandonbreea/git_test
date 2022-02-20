@@ -1,2 +1,6 @@
 # git_test
-Odin Project GIt Lesson
+Odin Project Git Lesson
+
+Feb 19 2022
+
+Odin Prj
